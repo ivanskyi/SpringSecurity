@@ -5,27 +5,14 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.3.3</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <version>3.5.3</version>
+        <relativePath/>
     </parent>
     <groupId>com.ivanskyi</groupId>
     <artifactId>SpringSecurity</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SpringSecurity</name>
     <description>SpringSecurity</description>
-    <url/>
-    <licenses>
-        <license/>
-    </licenses>
-    <developers>
-        <developer/>
-    </developers>
-    <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
-    </scm>
     <properties>
         <java.version>22</java.version>
     </properties>
